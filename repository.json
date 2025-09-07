@@ -5,7 +5,7 @@
     "python": {
       "version": "3.17.0",
       "description": "Python programming language",
-      "url": "https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe",
+      "url": "https://www.python.org/ftp/python/3.11.0/python-3.17.0-amd64.exe",
       "executable": "python.exe",
       "dependencies": [],
       "hash": "sha256:abc123..."
